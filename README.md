@@ -1,5 +1,7 @@
 # Ex02 Commercial Website
-## Date:
+## Date:11/2/26
+## Name : MADHESH I
+## Reg No: 212224220055
 
 ## AIM
 To create a commercial website using CSS Flexbox.
